@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include<conio.h>
+#include <conio.h>
+#include <stdlib.h>
 #define MAX 5
 void main() {
 int array[MAX] = {1, 2, 4, 5};
